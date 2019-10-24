@@ -1,2 +1,3 @@
 https://www.academia.edu/13534937/Data_Analysis_Using_WEKA-Issues_in_Customer_Churning
 https://github.com/srepho/srepho.github.io/blob/master/Churn/Churn.md
+https://www.researchgate.net/publication/301504077_Mining_Strong_Associations_and_Exceptions_in_the_STULONG_Data_Set
